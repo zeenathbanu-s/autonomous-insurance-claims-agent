@@ -1,0 +1,38 @@
+FIRST NOTICE OF LOSS (FNOL) — VEHICLE CLAIM
+============================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-VH-00134
+Policyholder Name: James Carter
+Effective Dates: 01/01/2024 - 12/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 03/15/2024
+Incident Time: 09:30 AM
+Location: Intersection of Maple Avenue and 5th Street, Springfield, IL 62701
+Description: The insured vehicle was struck from behind at a traffic light by another vehicle. The rear bumper and trunk were damaged. No airbags deployed. Weather was clear and dry at the time of the incident.
+
+INVOLVED PARTIES
+----------------
+Claimant: James Carter
+Third Parties: Robert Hughes (driver of the other vehicle)
+Contact Details: james.carter@email.com | Phone: (555) 204-7891
+
+ASSET DETAILS
+-------------
+Asset Type: Sedan
+Asset ID: VIN-1HGCM82633A123456
+Estimated Damage: $18,000
+
+OTHER MANDATORY FIELDS
+----------------------
+Claim Type: vehicle
+Attachments: Police report #SPD-2024-03890, Photos of damage (6 images)
+Initial Estimate: $18,000
+
+============================================
+EXPECTED ROUTE: Fast-track
+REASON: Estimated damage ($18,000) is below the $25,000 threshold. All mandatory fields present.
+============================================

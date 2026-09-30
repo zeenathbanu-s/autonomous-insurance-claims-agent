@@ -1,0 +1,38 @@
+FIRST NOTICE OF LOSS (FNOL) — VEHICLE CLAIM
+============================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2023-VH-00891
+Policyholder Name: Michael Torres
+Effective Dates: 04/01/2023 - 03/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 12/05/2023
+Incident Time: 11:45 PM
+Location: Industrial District, Warehouse Road, Detroit, MI 48201
+Description: The insured vehicle was allegedly involved in a collision in an isolated area late at night. The claimant reports total loss of the vehicle. Witnesses indicate the incident appears to have been staged and the damage patterns are inconsistent with the described scenario. The timeline provided by the claimant is also inconsistent with the police report.
+
+INVOLVED PARTIES
+----------------
+Claimant: Michael Torres
+Third Parties: Unknown vehicle, no plate recorded
+Contact Details: m.torres.claims@privatemail.net | Phone: (555) 988-0012
+
+ASSET DETAILS
+-------------
+Asset Type: SUV
+Asset ID: VIN-5XYZU3LB1DG123789
+Estimated Damage: $35,000
+
+OTHER MANDATORY FIELDS
+----------------------
+Claim Type: vehicle
+Attachments: Police report #DPD-2023-11209 (incomplete)
+Initial Estimate: $35,000
+
+============================================
+EXPECTED ROUTE: Investigation Flag
+REASON: Description contains keywords 'staged' and 'inconsistent', indicating potential fraud.
+============================================

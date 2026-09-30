@@ -1,0 +1,43 @@
+FIRST NOTICE OF LOSS (FNOL) — COMPLEX MULTI-CONDITION CLAIM
+=============================================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-MX-00999
+Policyholder Name: David Park
+Effective Dates: 03/01/2024 - 02/28/2025
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 05/10/2024
+Incident Time: 08:20 PM
+Location: Highway 45 Northbound, Exit 22, Houston, TX 77001
+Description: The insured vehicle was allegedly involved in a collision with a truck. The claimant reports serious bodily injury and vehicle total loss. Preliminary investigation suggests the incident may have been fraud based on witness accounts and camera footage inconsistencies.
+
+INVOLVED PARTIES
+----------------
+Claimant: David Park
+Third Parties: Unknown truck driver (fled the scene)
+Contact Details: david.park.legal@contactmail.com | Phone: (555) 601-7743
+
+ASSET DETAILS
+-------------
+Asset Type: Pickup Truck
+Asset ID: VIN-3GCUKREC0EG999123
+Estimated Damage: $48,000
+
+OTHER MANDATORY FIELDS
+----------------------
+Claim Type: injury
+Attachments: Medical records (partial), Police report #HPD-2024-05601
+Initial Estimate: $48,000
+
+=============================================================
+EXPECTED ROUTE: Investigation Flag
+REASON: Multiple conditions triggered. Priority order applied:
+  1. Investigation Flag — description contains keyword 'fraud' (HIGHEST PRIORITY)
+  2. Specialist Queue   — claim type is 'injury'
+  3. Manual review      — N/A (all fields present)
+  4. Fast-track         — N/A (damage $48,000 >= $25,000 threshold)
+Winner: Investigation Flag (Priority 1)
+=============================================================

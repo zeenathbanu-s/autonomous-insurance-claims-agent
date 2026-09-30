@@ -1,0 +1,39 @@
+FIRST NOTICE OF LOSS (FNOL) — PERSONAL INJURY CLAIM
+=====================================================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-PI-00567
+Policyholder Name: Emily Nguyen
+Effective Dates: 01/01/2024 - 12/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 02/28/2024
+Incident Time: 03:00 PM
+Location: Northgate Shopping Center Parking Lot, Portland, OR 97201
+Description: The claimant slipped and fell on an unmarked wet floor near the entrance of a retail store within the shopping center. The claimant sustained injuries to the left wrist and lower back. Emergency services were called to the scene and the claimant was transported to Portland General Hospital for treatment.
+
+INVOLVED PARTIES
+----------------
+Claimant: Emily Nguyen
+Third Parties: Northgate Shopping Center Management
+Contact Details: emily.nguyen.claims@email.com | Phone: (555) 472-8833
+
+ASSET DETAILS
+-------------
+Asset Type: Personal Injury
+Asset ID: CASE-PD-2024-00234
+Estimated Damage: $32,000
+
+OTHER MANDATORY FIELDS
+----------------------
+Claim Type: injury
+Attachments: Medical report from Portland General Hospital, Incident report from shopping center security, Witness statement
+Initial Estimate: $32,000
+
+=====================================================
+EXPECTED ROUTE: Specialist Queue
+REASON: Claim type is 'injury'. Despite damage > $25,000, investigation flag takes precedence, 
+but there are no fraud keywords here, so Specialist Queue applies.
+=====================================================

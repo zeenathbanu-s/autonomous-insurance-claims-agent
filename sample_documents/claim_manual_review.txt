@@ -1,0 +1,37 @@
+FIRST NOTICE OF LOSS (FNOL) — PROPERTY CLAIM
+=============================================
+
+POLICY INFORMATION
+------------------
+Policyholder Name: Sandra Williams
+Effective Dates: 06/01/2023 - 05/31/2024
+
+INCIDENT INFORMATION
+--------------------
+Incident Date: 11/22/2023
+Incident Time: 02:15 AM
+Location: 842 Riverside Drive, Apartment 4B, Lakewood, CO 80226
+Description: A water pipe burst in the kitchen ceiling overnight, causing significant water damage to the floors, walls, and furniture in the kitchen and living room area.
+
+INVOLVED PARTIES
+----------------
+Claimant: Sandra Williams
+Third Parties: None
+Contact Details: sandra.williams@webmail.com | Phone: (555) 317-4422
+
+ASSET DETAILS
+-------------
+Asset Type: Residential Property
+Asset ID: PROP-CO-84729
+Estimated Damage: $22,500
+
+OTHER MANDATORY FIELDS
+----------------------
+Claim Type: property
+Attachments: Plumber report, Damage photographs (12 images)
+Initial Estimate: $22,500
+
+=============================================
+EXPECTED ROUTE: Manual review
+REASON: Policy Number is missing. A mandatory field is absent.
+=============================================
